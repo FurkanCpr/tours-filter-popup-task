@@ -1,3 +1,8 @@
+![local_marketplace](https://github.com/user-attachments/assets/770af159-b877-4d5d-be76-38f4c1a156a5)
+
+![popup filter](https://github.com/user-attachments/assets/a85bf139-1e7e-43b3-8066-ec98e73668d3)
+
+
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 Follow these steps:
